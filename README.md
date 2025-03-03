@@ -1,8 +1,8 @@
 🌍 **Africa Environmental Datacube**
 
-![Workflow Diagram](docs/geospatial_data_intergration.png)
+![Environmental and Meteorological Data Integration](docs/geospatial_data_intergration.png)
 
-[View Datacube](https://drive.google.com/drive/folders/17bY5TRGLrxuMU9hKwbwlYXuThGgd_ZQ5?usp=drive_link)
+[View Geospatial Datacube](https://drive.google.com/drive/folders/17bY5TRGLrxuMU9hKwbwlYXuThGgd_ZQ5?usp=drive_link)
 
 
 ## 📌 Overview
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 │       ├── optimized_datacube.zarr
 │       ├── stac_catalog/
 ├── notebooks/                      # Jupyter notebooks for step-by-step workflow
-├── scripts/                         # Python scripts for automation
+├── scripts/                         # Python scripts for automation/work in progress
 ├── .gitignore                       # Ignore large files, cache, etc.
 ├── environment.yml                   # Conda environment dependencies
 ├── requirements.txt                  # Python dependencies (pip-only)
