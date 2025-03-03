@@ -1,4 +1,4 @@
-# 🌍 **Africa Environmental Datacube**
+# 🌍 **AFRICA ENVIRONMENTAL DATACUBE INFRASTRUCTURE**
 
 ![Environmental and Meteorological Data Integration](docs/geospatial_data_intergration.png)
 
