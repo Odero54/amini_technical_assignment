@@ -16,8 +16,8 @@ This project creates a **multi-source environmental datacube** using remote sens
 ### **1⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/Odero54/amini_technical_assignment.git
-cd africa-environmental-datacube
+git clone https://github.com/Odero54/amini_technicaal_assignment.git
+cd amini_technical_assignment
 ```
 
 ### **2⃣ Create Conda Environment** (Recommended)
