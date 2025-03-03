@@ -1,0 +1,2 @@
+data/product/africa_environmental_geospatial_datacube.nc filter=lfs diff=lfs merge=lfs -text
+data/product/environmental_multiband_cog.tiff filter=lfs diff=lfs merge=lfs -text
