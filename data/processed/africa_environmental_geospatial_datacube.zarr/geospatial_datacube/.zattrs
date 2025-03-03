@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "band",
+        "y",
+        "x"
+    ],
+    "crs": "EPSG:4326",
+    "description": "Geospatial Datacube for Africa Environmental Land Monitoring @amini-africa-environmental-data-infrastructure 2025",
+    "grid_mapping": "spatial_ref"
+}
