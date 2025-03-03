@@ -2,7 +2,7 @@
 
 ![Environmental and Meteorological Data Integration](docs/geospatial_data_intergration.png)
 
-[View Geospatial Datacube](https://drive.google.com/drive/folders/17bY5TRGLrxuMU9hKwbwlYXuThGgd_ZQ5?usp=drive_link)
+[View The Geospatial Datacube](https://drive.google.com/drive/folders/17bY5TRGLrxuMU9hKwbwlYXuThGgd_ZQ5?usp=drive_link)
 
 
 ## 📌 Overview
