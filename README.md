@@ -106,6 +106,7 @@ pip install -r requirements.txt
 - Resamples all datasets to the highest resolution available (NDVI).
 - Align all datasets in the same coordinate reference system (crs).
 - Resamples all datasets to the highest resolution available (NDVI).
+- Checking for pixel's missing data, if found fill the pixel with the data value from the nearest pixel (Interpolation).
 
 
 ### **2. Create and Optimize Datacube**
